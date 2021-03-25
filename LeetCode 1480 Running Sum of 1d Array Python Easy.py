@@ -1,4 +1,4 @@
-# https://youtu.be/Yd5Q6S9LXAY
+# Link to video: https://youtu.be/Yd5Q6S9LXAY
 
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:

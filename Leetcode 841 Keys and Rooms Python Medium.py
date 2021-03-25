@@ -1,4 +1,4 @@
-# https://youtu.be/Ao4gpHs1WNw
+# Link to video: https://youtu.be/Ao4gpHs1WNw
 
 class Solution:
     def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:

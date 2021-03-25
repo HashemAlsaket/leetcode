@@ -1,4 +1,4 @@
-# https://youtu.be/N-GJaW20GdQ
+# Link to video: https://youtu.be/N-GJaW20GdQ
 
 class Solution:
     def removeVowels(self, s: str) -> str:

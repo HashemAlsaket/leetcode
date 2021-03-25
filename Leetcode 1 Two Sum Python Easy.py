@@ -1,4 +1,4 @@
-# Link to video: https://www.youtube.com/channel/UC7Sn4ElJjnmsJo76qCn5EEQ
+# Link to video: https://youtu.be/4p50S6mMRrE
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
